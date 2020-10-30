@@ -1,0 +1,8 @@
+base_domain = "some.domain.com"
+registry_domain = "jcr.some.domain.com"
+repository_prefix = "jcr.some.domain.com/images"
+registry_username = "admin"
+registry_password = "why-would-i-share-this-with-you"
+pivnet_username = "your@email.com"
+pivnet_password = "why-would-i-share-this-with-you"
+kubeconfig_path = "~/.kube/config"
